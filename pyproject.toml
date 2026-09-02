@@ -1,0 +1,5 @@
+[project]
+name = "note-taker"
+version = "0.1.0"
+description = "Bluestaq Interview Note Taking Application Backend"
+requires-python = ">=3.12"
